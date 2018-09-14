@@ -1,0 +1,9 @@
+/Users/connoryukna/Projects/Dog-Challenge/Dog-Challenge/obj/Debug/netcoreapp2.1/Dog-Challenge.csprojAssemblyReference.cache
+/Users/connoryukna/Projects/Dog-Challenge/Dog-Challenge/obj/Debug/netcoreapp2.1/Dog-Challenge.csproj.CoreCompileInputs.cache
+/Users/connoryukna/Projects/Dog-Challenge/Dog-Challenge/obj/Debug/netcoreapp2.1/Dog-Challenge.AssemblyInfoInputs.cache
+/Users/connoryukna/Projects/Dog-Challenge/Dog-Challenge/obj/Debug/netcoreapp2.1/Dog-Challenge.AssemblyInfo.cs
+/Users/connoryukna/Projects/Dog-Challenge/Dog-Challenge/bin/Debug/netcoreapp2.1/Dog-Challenge.deps.json
+/Users/connoryukna/Projects/Dog-Challenge/Dog-Challenge/bin/Debug/netcoreapp2.1/Dog-Challenge.dll
+/Users/connoryukna/Projects/Dog-Challenge/Dog-Challenge/bin/Debug/netcoreapp2.1/Dog-Challenge.pdb
+/Users/connoryukna/Projects/Dog-Challenge/Dog-Challenge/obj/Debug/netcoreapp2.1/Dog-Challenge.dll
+/Users/connoryukna/Projects/Dog-Challenge/Dog-Challenge/obj/Debug/netcoreapp2.1/Dog-Challenge.pdb
